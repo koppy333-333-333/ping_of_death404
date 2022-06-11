@@ -22,7 +22,7 @@ Nome Auto explicativo.
  - `apt install git`
  - `git clone https://github.com/koppy333-333-333/ping_death_404`
  - `cd ping_death_404`
- - `bash ping_death_404.sh`  
+ - `bash ping_death404.sh`  
 
 > **ANDROID**
 > - - [x] **KALI NETHUNTER**
