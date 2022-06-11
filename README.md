@@ -33,7 +33,5 @@ Nome Auto explicativo.
 > **LINUX**
 > - - [x] **KALI**
 > - - [ ] **UBUNTU**
-
 ![alt text](https://i.imgur.com/hf6rG8P.png)
-
 ![alt text](https://i.imgur.com/BAAdzBt.gif)
