@@ -14,6 +14,8 @@
 
 # Ping da Morte
 Nome Auto explicativo.
+![alt text](https://i.imgur.com/QQlhhyI.jpg)
+
 
 #### *INSTALAÇÃO*  
  - `apt update && apt upgrade`
@@ -29,5 +31,7 @@ Nome Auto explicativo.
 > **LINUX**
 > - - [x] **KALI**
 > - - [ ] **UBUNTU**
+
+![alt text](https://i.imgur.com/hf6rG8P.png)
 
 ![alt text](https://i.imgur.com/BAAdzBt.gif)
