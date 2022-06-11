@@ -7,8 +7,10 @@
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![[Version 1.0](https://github.com/koppy333-333-333)](http://img.shields.io/badge/version-v1.0-red.svg)
-![[Date](https://github.com/koppy333-333-333)](http://img.shields.io/badge/date-10/06/2022-red.svg)
-![[Team](https://github.com/koppy333-333-333)](http://img.shields.io/badge/Team-404-red.svg)
+![[Date](https://github.com/koppy333-333-333)](http://img.shields.io/badge/date-10/06/2022-white.svg)
+![[Team](https://github.com/koppy333-333-333)](http://img.shields.io/badge/Team-404-blue.svg)
+
+![The Hell](https://img.shields.io/badge/Croacia🇭🇷-blue.svg)
 
 ![alt text](https://i.imgur.com/BAAdzBt.gif)
 
