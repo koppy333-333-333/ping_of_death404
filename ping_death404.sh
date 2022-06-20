@@ -2,8 +2,8 @@
 
 clear
 echo “Olá, User! Qual é seu nome?”
-read nome_musica;
-echo “Bem vindo,  $nome_musica! a feramenta já está sendo carregada...
+read nome;
+echo “Bem vindo,  $nome! a feramenta já está sendo carregada...
 sleep 10
 clear
 
