@@ -55,7 +55,7 @@ clear
  echo -e "\033[01;31m  	               EXCLUSIVO TEAM 404				\033[01;37m"
  echo -e "\033[01;31m 			CODED BY KOPPY404			\033[01;37m"
  echo -e "\033[01;31m                         IG: @koppyyy_				\033[01;37m"
- echo -e "\033[01;31m                       GITHUB: https://github.com/koppy333-333-333/\033[01;37m"
+ echo -e "\033[01;31m                       GITHUB: https://github.com/koppyy/\033[01;37m"
  echo -e "\033[01;31m ! AVISO ! \033[01;37m"  '(para cancelar o ataque, aperte no botão CTRL e depois C do teclado.)'
 echo -e "\033[01;31mDigite o IP/LINK do alvo:\033[01;37m"
 read ip;
